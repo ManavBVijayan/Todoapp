@@ -1,0 +1,25 @@
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	background: snow;
+	color: #a5a5a5;
+}
+.banner{
+    background-color:LightPink;
+    height:100px;
+    margin-bottom:50px;
+}
+.banner-text{
+    color:black;
+    top:12%;
+    left:50%;
+    position:absolute;
+    transform:transform;
+
+}
+h4{
+    color:black;
+}
+
